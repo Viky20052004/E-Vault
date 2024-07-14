@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\devis\\Downloads\\vite-project-evault-main\\blockchain-hardhat\\contracts\\EVault_Main.sol": {
+      "lastModificationDate": 1720876386609,
+      "contentHash": "8a58287bd22ac7683f322435456b1b51",
+      "sourceName": "contracts/EVault_Main.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.10"
+      ],
+      "artifacts": [
+        "EVault_Main"
+      ]
+    }
+  }
+}
